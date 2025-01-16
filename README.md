@@ -15,13 +15,13 @@ L'entreprise en question souhaite analyser les portfolios de nos candidats avant
   
 ## Les livrables:
 
-- Carte mentale
+- [Carte mentale](https://miro.com/app/board/uXjVL8m41zk=/?share_link_id=838691584749)
 - Cahier des charges
 - Analyse du besoin métier
 - Diagramme de Gantt
 - Vidéo de formation (Power BI)
 - Documentation (Power BI)
-- Portfolio (Github)
+- [Portfolio (Github)](https://github.com/CarolineG-DataAnalyst)
 
 ## Compétences évaluées:
 
