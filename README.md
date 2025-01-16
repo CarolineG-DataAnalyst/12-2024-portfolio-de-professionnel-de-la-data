@@ -19,8 +19,10 @@ L'entreprise en question souhaite analyser les portfolios de nos candidats avant
 - Cahier des charges
 - Analyse du besoin métier
 - Diagramme de Gantt
-- Vidéo de formation (Power BI)
-- Documentation (Power BI)
+- Tableau de bord de Portfolio (Power BI)
+- Tableau de bord de veille (Power BI)
+- [Vidéo de formation sur Power BI](https://www.loom.com/share/2de750ba195044fabc675c0b594477e0)
+- Documentation : Créer son premier graphique avec Power BI
 - [Portfolio (Github)](https://github.com/CarolineG-DataAnalyst)
 
 ## Compétences évaluées:
