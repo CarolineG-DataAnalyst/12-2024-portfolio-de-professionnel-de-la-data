@@ -3,8 +3,8 @@
 
 # Portfolio-de-professionnel-de-la-data
 
-Vous venez d’achever votre dernière mission de consultant en tant qu’expert data pour l’entreprise de service numérique Data ESN et attendez avec impatience votre prochaine mission qui continuera de vous faire progresser. Aussi êtes-vous ravi de croiser justement votre collègue Suzanne dans les couloirs de Data ESN ! Elle est chargée de positionner les consultants sur des missions externes auprès de grands comptes. 
- Aéroworld, est très exigeant ! Il cherche un profil de data analyst confirmé qui soit intéressé par le management d’une équipe et par l’innovation. 
+En tant que consultante expert data pour l’entreprise de service numérique Data ESN, je souhaite me positionner pour une mission auprès de l'entreprise Aéroworld, leader mondial dans
+l'industrie aéronautique. Ce client cherche un profil de data analyst confirmé qui soit intéressé par le management d’une équipe et par l’innovation. 
 
 L'entreprise en question souhaite analyser les portfolios de nos candidats avant de les rencontrer en entretien. 
 
