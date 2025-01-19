@@ -16,7 +16,7 @@ L'entreprise en question souhaite analyser les portfolios de nos candidats avant
 ## Les livrables:
 
 - [Carte mentale](https://miro.com/app/board/uXjVL8m41zk=/?share_link_id=838691584749)
-- [Cahier des charges]
+- [Cahier des charges](https://github.com/CarolineG-DataAnalyst/12-2024-portfolio-de-professionnel-de-la-data/blob/main/L1%20cahier%2Bdes%2Bcharges%2Bfonctionnel.pdf)
 - [Analyse du besoin métier](https://github.com/CarolineG-DataAnalyst/12-2024-portfolio-de-professionnel-de-la-data/blob/main/L2%20Analyse%20besoins%20me%CC%81tiers.pdf)
 - [Diagramme de Gantt](https://github.com/CarolineG-DataAnalyst/12-2024-portfolio-de-professionnel-de-la-data/blob/main/Capture%20Gestion%20de%20projet%20Portfolio.PNG)
 - [Tableau de bord de Portfolio (Power BI)](https://github.com/CarolineG-DataAnalyst/12-2024-portfolio-de-professionnel-de-la-data/blob/main/Capture%20Tableau%20de%20%20bord%20CV.PNG)
